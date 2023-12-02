@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921987569834",
+    "project_id": "la-maison-cafe-2-38rmfl",
+    "storage_bucket": "la-maison-cafe-2-38rmfl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921987569834:android:1cf4e4fbb80218939818d3",
+        "android_client_info": {
+          "package_name": "com.mycompany.lamaisoncafe2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-TCipPlLSUvTY7IJfg4p_wox-9ZUNZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
